@@ -1,0 +1,18 @@
+h1
+{
+	color: rgb(255, 0, 0); 
+	font-size: 40px;
+	text-align: center;
+}
+.body-background{
+	background-image: url("https://res.cloudinary.com/twenty20/private_images/t_watermark-criss-cross-10/v1631225834000/photosp/611374e0-a804-4147-ac81-3257bbcbfcb4/stock-photo-art-creativity-painting-macro-colors-creative-closeup-canvas-background-611374e0-a804-4147-ac81-3257bbcbfcb4.jpg");
+	background-position: center;
+	background-size: cover;
+}
+
+#canvas{
+background-color: beige;
+border-width: 5px;
+border-style: ridge;
+border-color: darkblue;
+}
